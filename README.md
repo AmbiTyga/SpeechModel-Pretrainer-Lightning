@@ -1,5 +1,5 @@
 # SpeechModel-Pretrainer-Lightning
-Ever since I started my journey in Deep learning, I have explored various domains, but recently the IndicVoices dataset caught my attention and motivated me to train the wav2vec2 model using Lightning AI. This project embodies my long-standing interest in harnessing the power of wav2vec2 with the efficiency and scalability of Lightning AI.
+Ever since I started my journey in Deep learning, I have explored various domains(💬,🔊,📷), but recently the [IndicVoices](https://ai4bharat.iitm.ac.in/indicvoices/) dataset caught my attention and motivated me to train the wav2vec2 model using Lightning AI. This project embodies pretraining of Wav2Vec2, as instructed in their paper and utilizes 🤗HuggingFace Transformers with the efficiency and scalability of ⚡Lightning AI.
 
 ## Environment Setup
 
