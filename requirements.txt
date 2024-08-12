@@ -1,0 +1,6 @@
+pandas
+sox
+soundfile
+tqdm
+lightning
+transformers
